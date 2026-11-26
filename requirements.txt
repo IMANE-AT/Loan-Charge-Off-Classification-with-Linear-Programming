@@ -1,0 +1,5 @@
+matplotlib
+notebook
+openpyxl
+pandas
+PuLP
