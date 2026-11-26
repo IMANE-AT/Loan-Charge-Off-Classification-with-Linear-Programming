@@ -2,8 +2,6 @@
 
 We explored how linear programming can separate loans by their recorded charge-off status. We formulated the classification problem as a linear program in PuLP, then used dual multipliers and visualizations to examine observations near regions where the classes overlap.
 
-**Authors** · Imane Atif and Chaimae El Yaouti
-
 ## Model
 
 - Define a separating hyperplane using six input variables, including loan amount, FICO score, and debt-to-income ratio (DTI).
