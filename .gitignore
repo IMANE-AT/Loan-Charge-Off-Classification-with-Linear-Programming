@@ -1,0 +1,8 @@
+# Local input data
+/p2pdata.xlsx
+/data/
+
+# Local Python and Jupyter files
+.venv/
+__pycache__/
+.ipynb_checkpoints/
